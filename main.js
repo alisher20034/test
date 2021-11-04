@@ -111,3 +111,6 @@
 // let {color} = obj1
 // let newObj = {color, name,...obj2}
 // console.log(newObj)
+console.log();
+
+// maxim
